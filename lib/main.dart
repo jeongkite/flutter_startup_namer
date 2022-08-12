@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
- 
+
 class RandomWords extends StatefulWidget {
   const RandomWords({Key? key}) : super(key: key);
   @override
